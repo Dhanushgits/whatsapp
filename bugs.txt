@@ -1,2 +1,9 @@
 status crashing, 
 security issue
+     
+
+
+2nd branch 
+issues fixed = security issue 
+
+bugs found = some banks not awailable for upi payment
